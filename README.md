@@ -1,5 +1,29 @@
-# This is an h1 tag
-## This is an h2 tag
+# Jacqueline Pennington
+## I have a rare genetic disorder. 
+
+
+
+(https://www.instagram.com/p/CQ-Cz2Xsexn/?utm_source=ig_web_copy_link)
+
+
+
+!['Swimming toward sailboats'](/sailboatswim.jpg)
+
+*How to upload an image*
+1. Upload an image to GitHub (Upload a new file)
+2. Reference the file in your Markdown
+3. Be sure to add an alt text description to your image
+
+`!['Name I give the image','Alt text desscribes the image'](/File path to the image OR an image URL)`
+
+**Image from a .jpg file in the repo*
+!['Peony','Peony flower bloom'](/peony.jpg)
+
+**Image from a URL**
+!['Peonies bouquet','Pink peonies bouquet in a vase'](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
+
+
+
 ### This is an h3 tag
 #### This is an h4 tag
 ##### This is an h5 tag
