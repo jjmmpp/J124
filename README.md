@@ -24,10 +24,12 @@
 
 
 
-### This is an h3 tag
-#### This is an h4 tag
-##### This is an h5 tag
-###### This is an h6 tag
+## Skills
+1. Competitive ocean swimmer
+2. Japanese N4 Certification
+3. NASM Fitness Trainer
+
+
 
 *This is italics* <br>
 _This is also italics_
@@ -46,9 +48,7 @@ _Let's **combine** bold and italics_
     * Nex item
 
 *This is an ordered list*   
-1. Item 1
-2. Item 1
-3. Item 1
+
     4. Subitem
     5. Subitem
 
