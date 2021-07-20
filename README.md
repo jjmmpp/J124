@@ -5,15 +5,16 @@
 
 | Employer        | Job Description |
 | --------------- | --------------- |
-| Bloomingdale's  | * Merchandising |
-|                 | * Sales         |
-|                 | * Styling       |
-| Tarzana Trading | * Stock trading |
+| Encinita Trading | * Stock trading |
 |                 | * Settled trades|
 |                 | * Sent funds    |
-| AFP Group       | * Financial planning |
+| FLP Group       | * Financial planning |
 |                 | * Stock trading        |
 |                 | * Documentation       |
+| Neiman Marcus   | * Merchandising |
+|                 | * Sales         |
+|                 | * Styling       |
+
 
 ## Skills
 1. Competitive ocean swimmer
