@@ -1,5 +1,5 @@
 # Jacqueline Pennington
-## I have a rare genetic disorder. 
+## I am a rhetoric major. 
 
 ![Me going for a swim in Redondo Beach two weeks ago.](/sailboatswim.jpg)
 
