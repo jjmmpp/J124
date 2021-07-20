@@ -2,25 +2,11 @@
 ## I have a rare genetic disorder. 
 
 
-
-(https://www.instagram.com/p/CQ-Cz2Xsexn/?utm_source=ig_web_copy_link)
-
-
-
 !['Swimming toward sailboats'](/sailboatswim.jpg)
+![Me going for a swim in Redondo Beach two weeks ago.] 
 
-*How to upload an image*
-1. Upload an image to GitHub (Upload a new file)
-2. Reference the file in your Markdown
-3. Be sure to add an alt text description to your image
 
-`!['Name I give the image','Alt text desscribes the image'](/File path to the image OR an image URL)`
-
-**Image from a .jpg file in the repo*
-!['Peony','Peony flower bloom'](/peony.jpg)
-
-**Image from a URL**
-!['Peonies bouquet','Pink peonies bouquet in a vase'](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
+Create a table of 3 jobs/internships you have had (you can include more if you want to). The left column should be the place of employment; label the header “Employer.” The right column should be a few lines about what you did; label the column header “Job Description.”  Write 2-3 things you did in the right column for each job as an unordered list with bullet points.
 
 
 
@@ -31,34 +17,4 @@
 
 
 
-*This is italics* <br>
-_This is also italics_
 
-**This is bold**<br>
-__This is also bold__
-
-_Let's **combine** bold and italics_
-
-**This is an unordered list**
-* Item 2
-* Item 2
-  * Subitem 1
-  * Subitem 2
-    * Next item
-    * Nex item
-
-*This is an ordered list*   
-
-    4. Subitem
-    5. Subitem
-
-*How to upload an image*
-1. Upload an image to GitHub (Upload a new file)
-2. Reference the file in your Markdown
-3. Be sure to add an alt text description to your image
-
-![Name of image][File path to the image]
-Format: ![Alt text}(url)
-
-!][Peony](/peony.jpg)
-Format: ![Peony Flower] 
